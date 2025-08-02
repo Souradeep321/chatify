@@ -1,4 +1,4 @@
-# 💬 SnapChat - Real-Time Chat Application
+# 💬 Chatify - Real-Time Chat Application
 
 ![Chat App UI](https://res.cloudinary.com/dw00x1zos/image/upload/v1754138151/Screenshot_2025-08-02_175548_r08ji2.png)
 
